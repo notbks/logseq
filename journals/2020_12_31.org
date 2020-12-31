@@ -1,9 +1,9 @@
 #+TITLE: Dec 31st, 2020
 
-** 第一次用logseq
+** 第一次用 [[logseq]] 
 :PROPERTIES:
 :created_at: 1609401920085
-:last_modified_at: 1609401920085
+:last_modified_at: 1609401938109
 :END:
 ** 家装
 :PROPERTIES:
