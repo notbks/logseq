@@ -5,8 +5,13 @@
 :created_at: 1609401920085
 :last_modified_at: 1609401938109
 :END:
-** 家装
+** 假装自己每天都向[[github]]commit代码
 :PROPERTIES:
-:created_at: 1609401924166
-:last_modified_at: 1609401924166
+:created_at: 1609401979142
+:last_modified_at: 1609401979142
+:END:
+** 
+:PROPERTIES:
+:created_at: 1609401981541
+:last_modified_at: 1609401981541
 :END:
