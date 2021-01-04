@@ -47,8 +47,13 @@
 :END:
 ****** 要查NC里的数据，核心业务系统可以调阅储存，方便查阅
 :PROPERTIES:
-:created_at: 1609750340036
-:last_modified_at: 1609750362206
+:created_at: 1609751347356
+:last_modified_at: 1609751347356
+:END:
+****
+:PROPERTIES:
+:created_at: 1609751347965
+:last_modified_at: 1609751377536
 :END:
 *** [[系统边界]]例：行政合同的法审和项目合同的法审界限
 :PROPERTIES:
