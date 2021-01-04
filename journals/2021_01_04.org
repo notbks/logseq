@@ -135,10 +135,10 @@
 :created_at: 1609750579469
 :last_modified_at: 1609750579469
 :END:
-**** 建议new一个。方便查看修改时间、修改人
+**** 建议new一个。加上sequence，时间戳等等，方便查看修改时间、修改人
 :PROPERTIES:
 :created_at: 1609750982763
-:last_modified_at: 1609751098471
+:last_modified_at: 1609751232376
 :END:
 **** 主要看业务人员是否对版本有需求
 :PROPERTIES:
