@@ -102,8 +102,13 @@
 :END:
 **** 1、要厘清业务线和行政线，才能决定哪个流程该在哪，不要重叠
 :PROPERTIES:
-:created_at: 1609749805765
-:last_modified_at: 1609752255375
+:created_at: 1609752261493
+:last_modified_at: 1609752261493
+:END:
+***** 要做个登记，方便查找对应
+:PROPERTIES:
+:created_at: 1609752270375
+:last_modified_at: 1609752282375
 :END:
 ***** 比如付款，就是财务的，才不管业务还是行政
 :PROPERTIES:
