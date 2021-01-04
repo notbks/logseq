@@ -62,8 +62,18 @@
 :END:
 **** 所有业务的付款流程必须通过核心业务系统向NC推指令
 :PROPERTIES:
-:created_at: 1609749886664
-:last_modified_at: 1609749886664
+:created_at: 1609751461716
+:last_modified_at: 1609751461716
+:END:
+**** 与NC和CBS的对接时间要提前商定好，因为他们的不确定性比较大。
+:PROPERTIES:
+:created_at: 1609751486744
+:last_modified_at: 1609751486744
+:END:
+****
+:PROPERTIES:
+:created_at: 1609751490375
+:last_modified_at: 1609751517376
 :END:
 **** 1，2两条是原则问题
 :PROPERTIES:
