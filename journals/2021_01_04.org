@@ -75,10 +75,15 @@
 :created_at: 1609747801595
 :last_modified_at: 1609747801595
 :END:
-****** 计划、需求、测试模板规范化，去维护项目，不必使用禅道就OK了，轻量化一点
+***** 计划、需求、测试模板规范化，去维护项目，不必使用禅道就OK了，轻量化一点
 :PROPERTIES:
-:created_at: 1609747814437
-:last_modified_at: 1609747844008
+:created_at: 1609747879963
+:last_modified_at: 1609747894784
+:END:
+****** 按里程碑交付物去规范化。
+:PROPERTIES:
+:created_at: 1609747880490
+:last_modified_at: 1609747893347
 :END:
 **** [[代码管理工具]] SVN一定要有
 :PROPERTIES:
