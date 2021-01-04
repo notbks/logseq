@@ -50,10 +50,10 @@
 :created_at: 1609749561293
 :last_modified_at: 1609749561293
 :END:
-**** 重复两套流程是最差的方案
+**** 重复两套流程是最差的方案，一定要避免
 :PROPERTIES:
 :created_at: 1609749581266
-:last_modified_at: 1609749581266
+:last_modified_at: 1609749752623
 :END:
 **** 权衡一下所有流程在OA里还是在核心业务系统里更好？
 :PROPERTIES:
