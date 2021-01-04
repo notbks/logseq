@@ -72,8 +72,13 @@
 :END:
 ******** 如果IT规模包括IT厂商达到十几二十个人，可以用禅道
 :PROPERTIES:
-:created_at: 1609747619439
-:last_modified_at: 1609747619439
+:created_at: 1609747801595
+:last_modified_at: 1609747801595
+:END:
+****** 计划、需求、测试模板规范化
+:PROPERTIES:
+:created_at: 1609747814437
+:last_modified_at: 1609747817542
 :END:
 **** [[代码管理工具]] SVN一定要有
 :PROPERTIES:
