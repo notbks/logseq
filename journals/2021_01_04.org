@@ -75,10 +75,10 @@
 :created_at: 1609751712817
 :last_modified_at: 1609751727375
 :END:
-**** 1，2两条是原则问题
+**** 1，2两条是原则问题，第3条最弱权重，最次考虑
 :PROPERTIES:
 :created_at: 1609749912375
-:last_modified_at: 1609749912375
+:last_modified_at: 1609752333375
 :END:
 **** 2、、重复两套流程是最差的方案，一定要避免
 :PROPERTIES:
