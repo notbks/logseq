@@ -62,8 +62,28 @@
 :END:
 ***** 对接、维护
 :PROPERTIES:
-:created_at: 1609749600707
-:last_modified_at: 1609749620009
+:created_at: 1609749643397
+:last_modified_at: 1609749643397
+:END:
+**** 行政的审批流还是在OA里
+:PROPERTIES:
+:created_at: 1609749653748
+:last_modified_at: 1609749653748
+:END:
+**** 财务的付款审批其实不算行政，应该算作财务付款，应该在核心业务系统
+:PROPERTIES:
+:created_at: 1609749682060
+:last_modified_at: 1609749682060
+:END:
+**** 哪个系统该在哪，就在哪。
+:PROPERTIES:
+:created_at: 1609749702442
+:last_modified_at: 1609749702442
+:END:
+**** 还要考虑
+:PROPERTIES:
+:created_at: 1609749710009
+:last_modified_at: 1609749710009
 :END:
 *** [[长短流程]]例：[[送审表]]在[[沟通会/预审会]]、[[投决会]]有可能改动，是重新提交？还是一串流程多次修改
 :PROPERTIES:
