@@ -5,8 +5,13 @@
 :created_at: 1609743611636
 :last_modified_at: 1609743611636
 :END:
-***
+*** [[核心业务系统需求说明书]]的签字确认环节
 :PROPERTIES:
-:created_at: 1609743611754
-:last_modified_at: 1609743617009
+:created_at: 1609743647099
+:last_modified_at: 1609743647099
+:END:
+****
+:PROPERTIES:
+:created_at: 1609743647234
+:last_modified_at: 1609743647234
 :END:
