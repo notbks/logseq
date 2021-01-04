@@ -75,10 +75,15 @@
 :created_at: 1609747619439
 :last_modified_at: 1609747619439
 :END:
-****** SVN一定要有
+****** [[代码管理工具]] SVN一定要有
 :PROPERTIES:
-:created_at: 1609747619945
-:last_modified_at: 1609747631010
+:created_at: 1609747658856
+:last_modified_at: 1609747658856
+:END:
+******* SVN是基础管理工具，
+:PROPERTIES:
+:created_at: 1609747659104
+:last_modified_at: 1609747670027
 :END:
 ** [[周报]]
 :PROPERTIES:
