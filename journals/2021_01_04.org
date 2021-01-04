@@ -52,8 +52,23 @@
 :END:
 **** 重复两套流程是最差的方案，一定要避免
 :PROPERTIES:
-:created_at: 1609749581266
-:last_modified_at: 1609749752623
+:created_at: 1609749763487
+:last_modified_at: 1609749763487
+:END:
+***** 不然后续维护两套很麻烦，代价大
+:PROPERTIES:
+:created_at: 1609749775166
+:last_modified_at: 1609749775166
+:END:
+**** 要厘清业务线和行政线，才能决定哪个流程该在哪
+:PROPERTIES:
+:created_at: 1609749805765
+:last_modified_at: 1609749805765
+:END:
+***** 比如付款，就是财务的，才不管业务还是行政
+:PROPERTIES:
+:created_at: 1609749805959
+:last_modified_at: 1609749824009
 :END:
 **** 权衡一下所有流程在OA里还是在核心业务系统里更好？
 :PROPERTIES:
