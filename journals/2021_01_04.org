@@ -80,10 +80,10 @@
 :created_at: 1609749912375
 :last_modified_at: 1609749912375
 :END:
-**** 1、、重复两套流程是最差的方案，一定要避免
+**** 2、、重复两套流程是最差的方案，一定要避免
 :PROPERTIES:
 :created_at: 1609749763487
-:last_modified_at: 1609749834864
+:last_modified_at: 1609752213375
 :END:
 ***** 不然后续维护两套很麻烦，代价大
 :PROPERTIES:
