@@ -50,7 +50,11 @@
 :created_at: 1609749886664
 :last_modified_at: 1609749886664
 :END:
-****
+**** 1，2两条是原则问题
+:PROPERTIES:
+:created_at: 1609749912375
+:last_modified_at: 1609749912375
+:END:
 **** 1、、重复两套流程是最差的方案，一定要避免
 :PROPERTIES:
 :created_at: 1609749763487
