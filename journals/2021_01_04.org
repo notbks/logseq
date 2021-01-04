@@ -252,9 +252,30 @@
 :END:
 **** 可执行性，是否有偏离（需要哪些支持），查缺补漏
 :PROPERTIES:
-:created_at: 1609752601761
-:last_modified_at: 1609752660375
+:created_at: 1609754648491
+:last_modified_at: 1609754648491
 :END:
+** 1、业财一体
+:PROPERTIES:
+:created_at: 1609754652222
+:last_modified_at: 1609754655504
+:END:
+*** 黄总+1位业财一体专家
+:PROPERTIES:
+:created_at: 1609754665005
+:last_modified_at: 1609754665005
+:END:
+*** 和计财沟通会计引擎
+:PROPERTIES:
+:created_at: 1609754703413
+:last_modified_at: 1609754703413
+:END:
+**** 会计准则、会计科目等等敲定
+:PROPERTIES:
+:created_at: 1609754713614
+:last_modified_at: 1609754713614
+:END:
+****
 ** [[周报]]
 :PROPERTIES:
 :created_at: 1609746329975
