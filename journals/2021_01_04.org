@@ -310,10 +310,10 @@
 :created_at: 1609754907061
 :last_modified_at: 1609754907061
 :END:
-*** 2、
+*** 2、BI已经搞到了
 :PROPERTIES:
 :created_at: 1609754907556
-:last_modified_at: 1609754910081
+:last_modified_at: 1609754921823
 :END:
 ** [[周报]]
 :PROPERTIES:
