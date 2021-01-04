@@ -250,10 +250,10 @@
 :created_at: 1609752601536
 :last_modified_at: 1609752601536
 :END:
-**** 可执行性，是否有偏离（需要哪些支持），chaquebulloyu
+**** 可执行性，是否有偏离（需要哪些支持），查缺补漏
 :PROPERTIES:
 :created_at: 1609752601761
-:last_modified_at: 1609752648375
+:last_modified_at: 1609752660375
 :END:
 ** [[周报]]
 :PROPERTIES:
