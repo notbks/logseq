@@ -265,17 +265,36 @@
 :created_at: 1609754665005
 :last_modified_at: 1609754665005
 :END:
-*** 和计财沟通会计引擎
+*** 双方沟通会计引擎
 :PROPERTIES:
 :created_at: 1609754703413
-:last_modified_at: 1609754703413
+:last_modified_at: 1609754729066
 :END:
 **** 会计准则、会计科目等等敲定
 :PROPERTIES:
 :created_at: 1609754713614
 :last_modified_at: 1609754713614
 :END:
-****
+**** 接近一天时间
+:PROPERTIES:
+:created_at: 1609754731755
+:last_modified_at: 1609754731755
+:END:
+*** 核算
+:PROPERTIES:
+:created_at: 1609754736164
+:last_modified_at: 1609754736164
+:END:
+**** 计提、减值、估值、等等还需要在过一遍
+:PROPERTIES:
+:created_at: 1609754755978
+:last_modified_at: 1609754755978
+:END:
+*** 计财的个性化需求
+:PROPERTIES:
+:created_at: 1609754756319
+:last_modified_at: 1609754763682
+:END:
 ** [[周报]]
 :PROPERTIES:
 :created_at: 1609746329975
