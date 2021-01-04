@@ -147,8 +147,13 @@
 :END:
 **** 业务量不大，存储不是问题。
 :PROPERTIES:
-:created_at: 1609751112375
-:last_modified_at: 1609751112375
+:created_at: 1609751121562
+:last_modified_at: 1609751121562
+:END:
+**** 送审表的编号一定不能改
+:PROPERTIES:
+:created_at: 1609751130375
+:last_modified_at: 1609751130375
 :END:
 *** [[项目管理软件]]、[[代码管理工具]]是否必要
 :PROPERTIES:
