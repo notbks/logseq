@@ -307,13 +307,13 @@
 :END:
 **** 半天
 :PROPERTIES:
-:created_at: 1609754907061
-:last_modified_at: 1609754907061
+:created_at: 1609754942887
+:last_modified_at: 1609754942887
 :END:
-*** 2、BI已经搞到了
+** BI已经搞到了
 :PROPERTIES:
-:created_at: 1609754907556
-:last_modified_at: 1609754921823
+:created_at: 1609754944306
+:last_modified_at: 1609754944773
 :END:
 ** [[周报]]
 :PROPERTIES:
