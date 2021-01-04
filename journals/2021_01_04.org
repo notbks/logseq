@@ -45,10 +45,10 @@
 :created_at: 1609747272376
 :last_modified_at: 1609747272376
 :END:
-**** 目前不太建议用。用的话有前提条件
+**** [[项目管理软件]] 目前不太建议用。用的话有前提条件
 :PROPERTIES:
 :created_at: 1609747307561
-:last_modified_at: 1609747333236
+:last_modified_at: 1609747645930
 :END:
 ****** 禅道需要有人维护，用于规范管理
 :PROPERTIES:
