@@ -40,10 +40,10 @@
 :created_at: 1609744070817
 :last_modified_at: 1609746439083
 :END:
-*** [[项目管理软件]]以及[[代码管理工具]]是否必要
+*** [[项目管理软件]]、[[代码管理工具]]是否必要
 :PROPERTIES:
 :created_at: 1609745687148
-:last_modified_at: 1609745687148
+:last_modified_at: 1609746463978
 :END:
 ** [[周报]]
 :PROPERTIES:
