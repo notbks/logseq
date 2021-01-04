@@ -67,8 +67,13 @@
 :END:
 ***** 核心业务系统有时候不适合做管理系统
 :PROPERTIES:
-:created_at: 1609749945375
-:last_modified_at: 1609749945375
+:created_at: 1609749986867
+:last_modified_at: 1609749986867
+:END:
+***** 理论上、所有财务付款都应该在核心业务系统里做
+:PROPERTIES:
+:created_at: 1609750008375
+:last_modified_at: 1609750008375
 :END:
 **** 2、要厘清业务线和行政线，才能决定哪个流程该在哪
 :PROPERTIES:
