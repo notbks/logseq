@@ -45,10 +45,20 @@
 :created_at: 1609747272376
 :last_modified_at: 1609747272376
 :END:
-****
+**** 目前不太建议用。用的话有前提条件
 :PROPERTIES:
-:created_at: 1609747272690
-:last_modified_at: 1609747277009
+:created_at: 1609747307561
+:last_modified_at: 1609747333236
+:END:
+****** 禅道需要有人维护，用于规范管理
+:PROPERTIES:
+:created_at: 1609747345758
+:last_modified_at: 1609747345758
+:END:
+******* 1、
+:PROPERTIES:
+:created_at: 1609747345948
+:last_modified_at: 1609747352009
 :END:
 ** [[周报]]
 :PROPERTIES:
