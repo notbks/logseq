@@ -12,8 +12,13 @@
 :END:
 **** 各业务 类型逐个签字确认
 :PROPERTIES:
-:created_at: 1609743659858
-:last_modified_at: 1609743659858
+:created_at: 1609747960940
+:last_modified_at: 1609747960940
+:END:
+***** 建议迭代去做，
+:PROPERTIES:
+:created_at: 1609747961133
+:last_modified_at: 1609747970008
 :END:
 **** 所有业务类型统一确认
 :PROPERTIES:
