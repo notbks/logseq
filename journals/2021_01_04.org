@@ -287,13 +287,23 @@
 :END:
 **** 计提、减值、估值、等等还需要在过一遍
 :PROPERTIES:
-:created_at: 1609754755978
-:last_modified_at: 1609754755978
+:created_at: 1609754768294
+:last_modified_at: 1609754768294
 :END:
-*** 计财的个性化需求
+**** 预估半天
 :PROPERTIES:
-:created_at: 1609754756319
-:last_modified_at: 1609754763682
+:created_at: 1609754773363
+:last_modified_at: 1609754773363
+:END:
+*** 计财的个性化需求、
+:PROPERTIES:
+:created_at: 1609754791959
+:last_modified_at: 1609754791959
+:END:
+*** 周三出一版不良的业务功能，可能越
+:PROPERTIES:
+:created_at: 1609754801319
+:last_modified_at: 1609754834328
 :END:
 ** [[周报]]
 :PROPERTIES:
