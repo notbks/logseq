@@ -10,8 +10,18 @@
 :created_at: 1609743647099
 :last_modified_at: 1609743647099
 :END:
-****
+**** 各业务 类型逐个签字确认
 :PROPERTIES:
-:created_at: 1609743647234
-:last_modified_at: 1609743647234
+:created_at: 1609743659858
+:last_modified_at: 1609743659858
+:END:
+**** 所有业务类型统一确认
+:PROPERTIES:
+:created_at: 1609743669962
+:last_modified_at: 1609743669962
+:END:
+***
+:PROPERTIES:
+:created_at: 1609743670195
+:last_modified_at: 1609743675009
 :END:
