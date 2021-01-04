@@ -50,11 +50,6 @@
 :created_at: 1609751347356
 :last_modified_at: 1609751347356
 :END:
-****
-:PROPERTIES:
-:created_at: 1609751347965
-:last_modified_at: 1609751377536
-:END:
 *** [[系统边界]]例：行政合同的法审和项目合同的法审界限
 :PROPERTIES:
 :created_at: 1609748989873
