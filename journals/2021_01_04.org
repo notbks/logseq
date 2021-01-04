@@ -97,8 +97,13 @@
 :END:
 **** 3、还要考虑自身的能力，能够管理过来
 :PROPERTIES:
-:created_at: 1609749710009
-:last_modified_at: 1609749845009
+:created_at: 1609749868184
+:last_modified_at: 1609749868184
+:END:
+***** 有些放OA里，我们能否支撑
+:PROPERTIES:
+:created_at: 1609749868387
+:last_modified_at: 1609749885990
 :END:
 *** [[长短流程]]例：[[送审表]]在[[沟通会/预审会]]、[[投决会]]有可能改动，是重新提交？还是一串流程多次修改
 :PROPERTIES:
