@@ -65,10 +65,10 @@
 :created_at: 1609747461925
 :last_modified_at: 1609747467634
 :END:
-*******
+******** 目前的一两年内可能都不要需要这个东西，因为目前来说比较简单
 :PROPERTIES:
 :created_at: 1609747420825
-:last_modified_at: 1609747496009
+:last_modified_at: 1609747541009
 :END:
 ** [[周报]]
 :PROPERTIES:
