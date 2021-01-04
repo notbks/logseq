@@ -295,10 +295,10 @@
 :created_at: 1609754773363
 :last_modified_at: 1609754773363
 :END:
-*** 计财的个性化需求、
+** 2、计财的个性化需求、
 :PROPERTIES:
 :created_at: 1609754791959
-:last_modified_at: 1609754791959
+:last_modified_at: 1609754930629
 :END:
 *** 结合着会计引擎，会说一说不良功能过一遍。
 :PROPERTIES:
