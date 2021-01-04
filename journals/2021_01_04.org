@@ -25,4 +25,23 @@
 :created_at: 1609743697397
 :last_modified_at: 1609743697397
 :END:
-***
+*** [[系统边界]]
+:PROPERTIES:
+:created_at: 1609743769693
+:last_modified_at: 1609743769693
+:END:
+**** 例：
+:PROPERTIES:
+:created_at: 1609743769797
+:last_modified_at: 1609743776010
+:END:
+*** [[长短流程]]
+:PROPERTIES:
+:created_at: 1609743734254
+:last_modified_at: 1609743734254
+:END:
+*** [[项目管理软件]]以及[[代码管理工具]]是否必要
+:PROPERTIES:
+:created_at: 1609743768730
+:last_modified_at: 1609743768730
+:END:
