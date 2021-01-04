@@ -70,10 +70,10 @@
 :created_at: 1609751486744
 :last_modified_at: 1609751486744
 :END:
-****
+**** 记账模式，因为不同的业务场景，这些需要梳理，
 :PROPERTIES:
 :created_at: 1609751490375
-:last_modified_at: 1609751538374
+:last_modified_at: 1609751580375
 :END:
 **** 1，2两条是原则问题
 :PROPERTIES:
