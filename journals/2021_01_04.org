@@ -55,11 +55,12 @@
 :created_at: 1609747345758
 :last_modified_at: 1609747345758
 :END:
-******* 1、
+******* 1、后续是否会有类似长亮大小的项目持续运行，这样可能导致维护禅道的资源浪费
 :PROPERTIES:
-:created_at: 1609747345948
-:last_modified_at: 1609747352009
+:created_at: 1609747398963
+:last_modified_at: 1609747398963
 :END:
+*******
 ** [[周报]]
 :PROPERTIES:
 :created_at: 1609746329975
