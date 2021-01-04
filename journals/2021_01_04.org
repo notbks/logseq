@@ -137,8 +137,13 @@
 :END:
 **** 建议new一个。
 :PROPERTIES:
-:created_at: 1609750962684
-:last_modified_at: 1609750962684
+:created_at: 1609750982763
+:last_modified_at: 1609750982763
+:END:
+**** 主要看业务人员是否对版本有需求
+:PROPERTIES:
+:created_at: 1609750986377
+:last_modified_at: 1609750994862
 :END:
 *** [[项目管理软件]]、[[代码管理工具]]是否必要
 :PROPERTIES:
