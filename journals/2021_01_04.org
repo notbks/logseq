@@ -100,10 +100,10 @@
 :created_at: 1609750008375
 :last_modified_at: 1609750008375
 :END:
-**** 2、要厘清业务线和行政线，才能决定哪个流程该在哪
+**** 1、要厘清业务线和行政线，才能决定哪个流程该在哪
 :PROPERTIES:
 :created_at: 1609749805765
-:last_modified_at: 1609749838286
+:last_modified_at: 1609752205176
 :END:
 ***** 比如付款，就是财务的，才不管业务还是行政
 :PROPERTIES:
