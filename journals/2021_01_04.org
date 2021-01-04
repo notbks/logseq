@@ -42,8 +42,13 @@
 :END:
 *** [[系统边界]]例：行政合同的法审和项目合同的法审界限
 :PROPERTIES:
-:created_at: 1609743769693
-:last_modified_at: 1609746407008
+:created_at: 1609748989873
+:last_modified_at: 1609748989873
+:END:
+**** 所有业务的付款流程必须通过核心业务系统向NC推指令
+:PROPERTIES:
+:created_at: 1609748990225
+:last_modified_at: 1609749020009
 :END:
 *** [[长短流程]]例：[[送审表]]在[[沟通会/预审会]]、[[投决会]]有可能改动，是重新提交？还是一串流程多次修改
 :PROPERTIES:
