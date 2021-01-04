@@ -80,10 +80,10 @@
 :created_at: 1609747658856
 :last_modified_at: 1609747658856
 :END:
-******* SVN是基础管理工具，
+******* SVN是基础管理工具，主要是代码和文档的版本问题
 :PROPERTIES:
 :created_at: 1609747659104
-:last_modified_at: 1609747670027
+:last_modified_at: 1609747689156
 :END:
 ** [[周报]]
 :PROPERTIES:
