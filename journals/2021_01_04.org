@@ -300,10 +300,10 @@
 :created_at: 1609754791959
 :last_modified_at: 1609754791959
 :END:
-*** 周三出一版不良的业务功能，可能越
+*** 结合着会计引擎，会说一说不良功能
 :PROPERTIES:
 :created_at: 1609754801319
-:last_modified_at: 1609754834328
+:last_modified_at: 1609754864307
 :END:
 ** [[周报]]
 :PROPERTIES:
