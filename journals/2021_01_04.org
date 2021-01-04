@@ -42,8 +42,13 @@
 :END:
 ***** 可以沉淀一些数据资产，不用跨系统（主要看系统能否实现什么量级）
 :PROPERTIES:
-:created_at: 1609750259925
-:last_modified_at: 1609750311376
+:created_at: 1609750332973
+:last_modified_at: 1609750332973
+:END:
+****** 要查NC里的数据，核心业务系统可以调阅储存，方便查阅
+:PROPERTIES:
+:created_at: 1609750340036
+:last_modified_at: 1609750362206
 :END:
 *** [[系统边界]]例：行政合同的法审和项目合同的法审界限
 :PROPERTIES:
