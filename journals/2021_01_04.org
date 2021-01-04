@@ -47,9 +47,10 @@
 :END:
 **** 所有业务的付款流程必须通过核心业务系统向NC推指令
 :PROPERTIES:
-:created_at: 1609749561293
-:last_modified_at: 1609749561293
+:created_at: 1609749886664
+:last_modified_at: 1609749886664
 :END:
+****
 **** 1、、重复两套流程是最差的方案，一定要避免
 :PROPERTIES:
 :created_at: 1609749763487
