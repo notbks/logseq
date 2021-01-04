@@ -62,8 +62,13 @@
 :END:
 ***** 不然后续维护两套很麻烦，代价大
 :PROPERTIES:
-:created_at: 1609749775166
-:last_modified_at: 1609749775166
+:created_at: 1609749925248
+:last_modified_at: 1609749925248
+:END:
+***** 核心业务系统有时候不适合做管理系统
+:PROPERTIES:
+:created_at: 1609749945375
+:last_modified_at: 1609749945375
 :END:
 **** 2、要厘清业务线和行政线，才能决定哪个流程该在哪
 :PROPERTIES:
